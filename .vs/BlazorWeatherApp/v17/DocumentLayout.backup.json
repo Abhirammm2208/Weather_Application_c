@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp\\Blazor-Weather-App\\BlazorWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3419538-4D43-46DE-B69C-7716B1B0DE11}|BlazorWeatherApp.csproj|e:\\c-sharp\\blazor-weather-app\\blazorweatherapp\\models\\current.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3419538-4D43-46DE-B69C-7716B1B0DE11}|BlazorWeatherApp.csproj|solutionrelative:models\\current.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3419538-4D43-46DE-B69C-7716B1B0DE11}|BlazorWeatherApp.csproj|e:\\c-sharp\\blazor-weather-app\\blazorweatherapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3419538-4D43-46DE-B69C-7716B1B0DE11}|BlazorWeatherApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Current.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\Blazor-Weather-App\\BlazorWeatherApp\\Models\\Current.cs",
+              "RelativeDocumentMoniker": "Models\\Current.cs",
+              "ToolTip": "E:\\C-Sharp\\Blazor-Weather-App\\BlazorWeatherApp\\Models\\Current.cs",
+              "RelativeToolTip": "Models\\Current.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:09:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\C-Sharp\\Blazor-Weather-App\\BlazorWeatherApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\C-Sharp\\Blazor-Weather-App\\BlazorWeatherApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T13:08:34.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
